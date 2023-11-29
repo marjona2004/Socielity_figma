@@ -1,4 +1,4 @@
-import { Faq, Footer, Hero, Know, Navbar, Partners, Platform, Services, Socielity, Subscribe, Testimonial, Trusted } from "../../components/pages/home-components";
+import { Faq, Footer, Hero, Know, Navbar, Platform, Services, Socielity, Subscribe, Testimonial, Trusted } from "../../components/pages/home-components";
 
 export const Home = () => {
   return (
@@ -9,11 +9,10 @@ export const Home = () => {
        <Services/>
       <Socielity/>
       <Testimonial/>
-       <Partners/>
-      
        <Know/>
        <Faq/>
       <Platform/>
+
       <Subscribe/>
       <Footer/>
     </div>
