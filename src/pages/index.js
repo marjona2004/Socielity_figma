@@ -1,2 +1,2 @@
 export { Home } from "./home";
-export { Resourse } from "./resourse";
+export { Resourse } from "./resourse";  
