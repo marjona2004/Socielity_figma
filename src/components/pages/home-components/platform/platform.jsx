@@ -48,8 +48,10 @@ export const Platform = () => {
            <p className="text-center text-[#666]"> Winning Engagement <br /> Platform that you <br /> know and trust </p>
         </div>
         </div>
-        <div>
-          {/* aylanalar  */}
-        </div>
+      <div className="flex gap-[10px] justify-center mt-[30px]">
+         <div className="rounded-full bg-slate-400 w-[20px] h-[20px]"></div>
+         <div className="rounded-full bg-blue-600 w-[20px] h-[20px]"></div>
+         <div className="rounded-full bg-slate-400 w-[20px] h-[20px]"></div>
+      </div>
   </div>;
 };

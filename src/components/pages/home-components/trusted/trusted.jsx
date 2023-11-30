@@ -21,8 +21,11 @@ export const Trusted = () => {
         <img src={pfizer} alt=""  className="w-[200px]"/>
 
       </div>
-       <div>
-         {/* aylanalarni qo'yaman  */}
+       <div className="flex gap-[10px] justify-center">
+         <div className="rounded-full bg-slate-400 w-[20px] h-[20px]"></div>
+         <div className="rounded-full bg-blue-600 w-[20px] h-[20px]"></div>
+         <div className="rounded-full bg-slate-400 w-[20px] h-[20px]"></div>
+         
        </div>
      </div>
   </div>;
