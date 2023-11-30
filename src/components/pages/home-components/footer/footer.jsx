@@ -11,7 +11,7 @@ import camera_icon from "/public/mock-imges/mock-imges/icons/camera_icon.svg"
 
 
 export const Footer = () => {
-  return  <div className=' bg-blue-500 py-[50px] px-[30px]'>
+  return  <div className=' bg-blue-500 py-[50px] px-[30px] '>
 
   <div className='flex justify-between'>
         

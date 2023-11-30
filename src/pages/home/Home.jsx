@@ -14,7 +14,7 @@ export const Home = () => {
       <Platform/>
 
       <Subscribe/>
-      <Footer/>
+      <Footer />
     </div>
   );
 };
