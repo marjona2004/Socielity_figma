@@ -2,6 +2,8 @@ import Button from "../../../common/button/Button";
 import services1 from "/public/mock-imges/mock-imges/services.png";
 import services2 from "/public/mock-imges/mock-imges/services2.png";
 import services3 from "/public/mock-imges/mock-imges/services3.png";
+
+
 export const Services = () => {
   return <div >
     <div className="flex gap-[120px] mb-[126px]">
@@ -30,6 +32,8 @@ export const Services = () => {
     <div className="flex gap-[120px] mb-[126px]">
       <div>
          <img src={services3} alt="" className="w-[515px] h-[423px]"/>
+        
+
       </div>
       <div className="pt-[100px]">
           <h2 className="text-2xl text-black font-bold">You want to strengthen more of communities <br /> <br /> or groups you are associated with.</h2>
